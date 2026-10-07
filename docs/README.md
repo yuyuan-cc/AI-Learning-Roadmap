@@ -1,6 +1,6 @@
 # AI-Learning-Roadmap
 
-这是一个面向零基础学习者的 AI 学习路线仓库，帮助你从 Python 基础、数据分析、机器学习、深度学习，到 NLP / LLM 和 AI 工程化，最终成长为 AI 工程师。
+这是一个面向零基础学习者的 AI 学习路线仓库，帮助你从 Python 基础、数据分析、机器学习、深度学习，到 NLP / LLM 与 AI 工程化，最终成长为 AI 工程师。
 
 ## 学习目标
 
@@ -14,15 +14,15 @@
 
 ## 仓库目录
 
-- [README.md](./README.md)
-- [01-Python/README.md](./01-Python/README.md)
-- [02-Math-and-Data/README.md](./02-Math-and-Data/README.md)
-- [03-Machine-Learning/README.md](./03-Machine-Learning/README.md)
-- [04-Deep-Learning/README.md](./04-Deep-Learning/README.md)
-- [05-NLP-LLM/README.md](./05-NLP-LLM/README.md)
-- [06-AI-Engineering/README.md](./06-AI-Engineering/README.md)
-- [07-Projects/README.md](./07-Projects/README.md)
-- [08-Interview/README.md](./08-Interview/README.md)
+- [README.md](../README.md)
+- [01-Python/README.md](../01-Python/README.md)
+- [02-Math-and-Data/README.md](../02-Math-and-Data/README.md)
+- [03-Machine-Learning/README.md](../03-Machine-Learning/README.md)
+- [04-Deep-Learning/README.md](../04-Deep-Learning/README.md)
+- [05-NLP-LLM/README.md](../05-NLP-LLM/README.md)
+- [06-AI-Engineering/README.md](../06-AI-Engineering/README.md)
+- [07-Projects/README.md](../07-Projects/README.md)
+- [08-Interview/README.md](../08-Interview/README.md)
 
 ## 学习路线
 
