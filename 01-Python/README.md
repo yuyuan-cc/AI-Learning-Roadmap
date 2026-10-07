@@ -2,61 +2,42 @@
 
 ## 学习目标
 
-掌握 Python 编程基础，并具备日常数据处理、脚本自动化和基础分析能力。
+掌握 Python 编程基础，具备数据处理与脚本开发能力。
 
 ## 核心内容
-
-### 1. Python 基础语法
-- 变量、基本数据类型
-- 运算符、条件判断、循环
-- 列表、字典、集合、元组
-- 函数、参数、返回值
+- Python 基础语法
+- 函数与模块
 - 文件读写
 - 异常处理
-
-### 2. 进阶语法
-- 列表推导式
-- Lambda 表达式
-- map / filter / reduce
-- 模块与包
 - 面向对象编程
-- 类、对象、继承、封装
+- NumPy / Pandas / Matplotlib
 
-### 3. Python 实战工具
-- `numpy`
-- `pandas`
-- `matplotlib`
-- `seaborn`
-- `jupyter`
+## 学习任务
 
-## 学习建议
+### Week 1
+- [ ] 学会变量、数据类型、条件判断
+- [ ] 完成 20 道基础题
+- [ ] 实现一个小型计算器
 
-- 建议先用 2-3 周把基础语法打牢
-- 每天写 1-2 个小脚本
-- 重点练习：数据处理、自动化脚本、文件处理
+### Week 2
+- [ ] 学会列表、字典、集合
+- [ ] 使用函数封装常用逻辑
+- [ ] 完成 CSV 数据读取与处理
 
-## 推荐课程
+### Week 3
+- [ ] 学会异常处理
+- [ ] 完成一个数据分析脚本
+- [ ] 画一张图表
 
+## 推荐资源
 - 廖雪峰 Python 教程
 - Python 官方文档
-- Kaggle Python 课程
-- Codecademy / Coursera 入门课程
+- Kaggle Python Course
 
-## 练习任务
-
-- 统计文本词频
-- 处理 CSV 文件
-- 自动生成报告
-- 读取 Excel 数据并做清洗
-- 画柱状图、折线图与散点图
-
-## 本阶段产出物
-
-- 一个小型数据分析脚本
-- 一个自动化处理脚本
-- 一个可复现的 Jupyter Notebook
+## 产出物
+- Python 基础练习脚本
+- 数据清洗脚本
+- 一个 Jupyter Notebook
 
 ## 下一阶段
-
-进入 [02-Math-and-Data](../02-Math-and-Data/README.md)
-
+[02-Math-and-Data](../02-Math-and-Data/README.md)

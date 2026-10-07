@@ -2,60 +2,45 @@
 
 ## 学习目标
 
-掌握自然语言处理的基础思想��并理解大模型与 LLM 应用架构。
+掌握自然语言处理与大模型应用的基础方法，并理解 Prompt / Embedding / RAG 的关键概念。
 
 ## 核心内容
-
-### 1. NLP 基础
 - 文本预处理
-- 词袋模型
 - 词向量
-- 语言模型基础
-- 情感分析
-
-### 2. 常见 NLP 任务
-- 文本分类
-- 命名实体识别（NER）
-- 摘要生成
-- 问答系统
-- 语义匹配
-
-### 3. 现代大模型基础
+- 语言模型
 - Transformer
 - Attention
-- Tokenizer
 - Prompt Engineering
-- Embedding 与向量数据库
-- RAG（检索增强生成）
+- Embedding
+- RAG
+- Hugging Face
 
-### 4. LLM 工具栈
-- Hugging Face Transformers
-- SentenceTransformers
-- LangChain
-- LlamaIndex
-- OpenAI / Qwen / DeepSeek / Llama 等
+## 学习任务
 
-## 推荐课程
+### Week 1
+- [ ] 学习文本预处理
+- [ ] 完成文本分类任务
+- [ ] 实现词袋模型
 
+### Week 2
+- [ ] 学习 Transformer 与 Attention
+- [ ] 使用 Hugging Face 进行微调
+- [ ] 完成情感分析任务
+
+### Week 3
+- [ ] 学习 RAG 和知识检索
+- [ ] 构建文档问答助手
+- [ ] 输出智能问答演示
+
+## 推荐资源
 - Hugging Face Course
 - Stanford CS224N
-- LangChain 官方文档
-- LLM 相关技术博客与开源项目
+- LangChain 文档
 
-## 实战项目
-
-- 智能客服助手
-- 知识库问答系统
-- 论文总结工具
-- 文件智能检索助手
-- 会议纪要总结器
-
-## 学习建议
-
-- 不要只会调 API，要理解 Embedding、RAG、Prompt、Context
-- 一个好的 LLM 项目通常不是“直接调用模型”，而是“围绕业务场景构建链路”
+## 产出物
+- 文本分类器
+- 文档问答系统
+- LLM 应用示例
 
 ## 下一阶段
-
-进入 [06-AI-Engineering](../06-AI-Engineering/README.md)
-
+[06-AI-Engineering](../06-AI-Engineering/README.md)
